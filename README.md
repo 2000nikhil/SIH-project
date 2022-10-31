@@ -11,7 +11,7 @@ Developed and designed the website using HTML, CSS and Java Script.
   - Abhishek Kumar Singh
   - Vikash Kumar Sengar
   - Behara Nikhil Patnaik
-  - Anish Tirkey
+  - Anish Kumar Tirkey
   - Sakshi Nillay
   
 
