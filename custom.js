@@ -1653,7 +1653,7 @@ document.querySelector('#lifeStyle').addEventListener('click',function()
 
 document.querySelector('#business').addEventListener('click',function()
 {
-  window.location.href='business.html';
+  window.location.href='business/business.html';
 })
 
 document.querySelector('#world').addEventListener('click',function()
@@ -1666,3 +1666,7 @@ document.querySelector('#ezmall').addEventListener('click',function()
   window.open('https://www.ezmall.com/?utm_source=Dnaindia.com&utm_medium=Affiliate&utm_campaign=Dnaindia.com_Traffic','__blank');
 
 })
+function liveEvent()
+{
+  window.location.href = "liveevent.html"
+}

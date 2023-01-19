@@ -683,7 +683,7 @@
     <div id="parentboxbelow">
         <!-- left side panel start here -->
         <div id="leftSidePanel">
-          <div id="sidebox">
+         <!-- <div id="sidebox">
             <div id="latestNews">
                 <div>
                   <img
@@ -691,7 +691,7 @@
                     alt="Error"
                   />
                 </div>
-                <p>Latest News</p>
+                <p>Latest News </p>
             </div>
             <div id="photos">
               <div>
@@ -792,8 +792,8 @@
               </div>
               <p>Ezmall</p>
             </div>
-          </div>
-        </div>
+          </div> -->
+        </div> 
         <!-- left side panel end here -->
         <div id="rightMainNews">
             <div id="outerContainer">
@@ -801,7 +801,7 @@
                 <hr>
                 <div id="container">
                 </div>
-                <button><a href="photo.html">View More Photos</a></button>
+                <button><a href="photo.html">View More Photos </a></button>
             </div>
         </div>
     </div>
@@ -828,7 +828,7 @@
               </li>
 
               <li id="nav-item">
-                <a href="business.html">BUISNESS</a>
+                <a href="business/business.html">BUISNESS</a>
               </li>
 
               <li id="nav-item">
@@ -2215,6 +2215,7 @@ pauseButton.addEventListener('click',function(){
     }
   }
   arrByID.forEach(function (elem) {
+    console.log("I am here")
     let box = document.createElement("div");
     let Image = document.createElement("img");
     Image.setAttribute("src", elem.img)
@@ -2273,7 +2274,7 @@ document.querySelector('#lifeStyle').addEventListener('click',function()
 
 document.querySelector('#business').addEventListener('click',function()
 {
-  window.location.href='business.html';
+  window.location.href='business/business.html';
 })
 
 document.querySelector('#world').addEventListener('click',function()
