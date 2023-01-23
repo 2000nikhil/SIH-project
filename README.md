@@ -8,12 +8,11 @@ Developed and designed the website using HTML, CSS and Java Script.
     HTML 5, CSS, JavaScript and LocalStorage
     
   ## Team Members :-
-  - Dikshant Singh Bisht
-  - Sameer Bhavar
-  - Sanket Wankhede
-  - Anukriti
-  - Afzal Sheikh
-  - Shekhar Suman
+  - Abhishek Singh
+  - Anish kumar tirkey
+  - Nikhil
+  - Vikash Senger
+  - Sakshi 
   
   ## Clone Snaps :-
   ![loginpage](https://user-images.githubusercontent.com/50591381/192936886-1e79cad7-0c2c-4a2d-9c4b-b5f607ab14d1.PNG)
